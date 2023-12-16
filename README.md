@@ -1,4 +1,7 @@
 What is Square Game:
+
+
+
 Our project is more like a game called “Tetris”, it’s about putting pieces falling out of the top together at the bottom to form a straight line and then the straight line vanishes.our project is a program that is supposed to take a set of pieces and use them to form a 4x4 square without any gaps, it should automatically rotate or flip the pieces or keep them on their original state to form that perfect 4x4 square.
 
 
